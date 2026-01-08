@@ -1,0 +1,37 @@
+
+	String
+	
+			C Special Type of Array(Derived Datatype)
+			Character Array is called as string in C and C++.
+			
+			ArrayDataType ArrayName[ArraySize] = {,,,,};
+			
+			char StringName[StringSize] = {'','','','','','',''};
+			
+			char City[80];
+			
+			char City[80] = {};
+			
+			char City[80] = {'\0'};
+			
+			char City[80] = "";
+			
+			char City[80] = {'k','A','R','a','d',' ',' ',' ','C','i','t','y'};
+			
+			char City[80] = "Karad   City";
+			
+			char Name[40];
+			
+			/// Name = "Harry Potter";
+
+string.h
+			strcpy(Name, "Harry Potter");
+			
+			char City[80] = {};
+			
+			int Num[7] = {57,789,54,987};
+			
+			
+			
+			
+			

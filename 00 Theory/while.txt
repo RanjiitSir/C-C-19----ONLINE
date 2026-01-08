@@ -1,0 +1,31 @@
+while
+	Entry Controlled
+Syntax:
+               
+               while(<Condition>)
+               {
+	    Statements;
+	    incr/dcrmt;
+               }
+============================================
+Example:
+
+#include<stdio.h>
+#include<conio.h>
+
+int  main( )
+{
+          int   i = 1;
+
+          while(i <= 5 )
+          {
+	printf("\n INDIA");
+	printf("\n I Love INDIA");
+	i++;
+          }
+
+          printf("\n Thanks!!!");
+	
+         getch();
+         return 0;
+}

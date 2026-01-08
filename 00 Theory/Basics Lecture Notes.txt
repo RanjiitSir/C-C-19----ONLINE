@@ -1,0 +1,54 @@
+
+	
+	Computer/Machine =>	
+				Machine Language/Code - Binary Language/Code  
+		
+	
+	C Language ToolChain
+	
+	
+	IDE => Indegrated Development Environment
+	
+		=> IDE is collection of tools to run a program in particular programming language
+		
+		=> To Run C Program we use IDE's like - TurboC, DevCpp, CodeBlocks, VisualStudio
+		
+		=> These IDE include follwing tools to run C program
+			
+					.c				    .i			   .asm				  .obj           .exe
+			Editor -----> Preprocessor ----> Compiler -------> Assembler ------> Linker -----> Loader 
+																	      other
+																		   obj
+				
+		
+		
+		
+===============================================================================================================================
+
+	Control Statement
+	
+	
+	if
+	if else
+	nested if else
+	else if ladder
+	
+	while 
+	do while
+	for
+	
+	switch
+	
+	break
+	continue
+	return
+	goto
+	
+==============================================================================================================================
+
+	Storage Classes
+	
+
+
+	
+		

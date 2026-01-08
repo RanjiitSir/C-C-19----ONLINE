@@ -1,0 +1,20 @@
+
+Prog - 1. Sum of Numbers of User Defined Count.C
+		  Exa : 
+				Enter How many Numbers You Want To Calculate Sum = 5
+				Accept N Numbers & Same Time Calcuate Their Sum Using Recursive Function
+
+*Prog - 2. Create Array in main(), Set its Size using #define macro.
+		  Accept that array elements from user by Accept function.
+		  Find Maximum from that array by using Find_Max_Ele which Should be Recursive.
+
+Prog - 3. Create Array in main(), Set its Size using #define macro.
+		  Accept that array elements from user by Accept function.
+		  Find Minimum from that array by using Find_Max_Ele which Should be Recursive.
+
+*Prog - 4. Accept a Number from User & Display that number of Fibnacci Series by Recursive Function.
+
+Prog - 5. Accept a Number from User & Display its Reverse Number by Using Recursive Function
+
+Prog - 6. Write program to accept numbers from user as Num1 & Num2 and print (Num1)^ Num2 i.e. Num1 Raise To Num2 Using Recursion
+		( Recursive power function).

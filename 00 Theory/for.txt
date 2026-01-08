@@ -1,0 +1,30 @@
+for
+	Entry Controlled
+Syntax :
+                	               1                      2                    4  
+                for(Initialization; Condition; incr/dcrmt)
+                {		        3
+		Statements;
+                 }
+
+=================================================
+Example:
+
+#include<stdio.h>
+#include<conio.h>
+
+int  main( )
+{
+          int   i = 0;        // Declaration
+
+          for(i = 1; i <= 5; i++)
+          {
+	printf("\n INDIA");
+	printf("\n I Love My INDIA");
+          }
+
+          printf("\n Thanks!!!");
+	
+         getch();
+         return 0;
+}

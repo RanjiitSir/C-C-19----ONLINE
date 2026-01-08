@@ -1,0 +1,78 @@
+
+	Mold =>  Structure 
+									User Defined DataType
+	
+	Product => Instance / Object 
+	
+=========================================================================================================
+
+	Structure =>
+	
+	
+	Syntax =>
+			
+			struct <Structure_Name>
+			{
+					DataType1 Variable_Name1;
+					DataType2 Variable_Name2;
+					DataType3 Variable_Name3;
+					.
+					.
+					.
+					.
+					DataTypeN Variable_NameN;
+			};
+
+
+	Exapmple =>
+	
+			struct Stud
+			{
+				int Roll_No;
+				char Name[80];
+				char City[40];
+				long long int Mob_No;
+			};
+
+	
+	
+	
+
+
+	Student
+	
+			Roll_No => int
+			Name => char[60]
+			Mob_No => long long int
+			Address => char[240]
+			Course_Name => char[20]
+			
+			
+			Name => char[80]
+			Course => char[40]
+			Address => char[560]
+			Roll_No => int
+			Mob_No => long int
+			grade => char
+			
+			Name => char[120]
+			Course => char[40]
+			City => char[40]
+			Roll_No => int
+			Contact_No => long long int
+			
+			
+			Roll_No => int
+			Name => char[60]
+			Mob_No => long long int
+			Address => char[240]
+			Course_Name => char[20]
+			
+			Roll_No => int
+			Name => char[60]
+			Mob_No => long long int
+			Address => char[240]
+			Course_Name => char[20]
+			
+			
+			

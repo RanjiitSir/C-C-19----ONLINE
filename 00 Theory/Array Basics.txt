@@ -1,0 +1,57 @@
+
+Array =>
+
+	Array is Derived Data Type in C
+
+	Collection of HomoGeneous(Same) DataType Elements,Under a Single Name
+
+	Array is a group of related data items that share a Common Name.
+
+	Sequential Byte Of memory 
+
+	Array Indexing Starts with 0, Last Index is (ArraySize - 1)
+
+==================================================
+
+Normal Variable Declaration
+
+	DataType <VarName>;
+	
+Exa:
+	int No;
+	
+	char ch;
+	
+	float Per;
+	
+	
+=================================================
+
+Normal Variable Initialization:
+	DataType <VarName> = <InitialialValue>;
+
+Exa:
+	int No = 0;
+	
+	char ch = '\0';
+	
+	float Per = 0.0;
+	
+================================================
+  
+Array Declaration:
+	
+	DataType <ArrayName>[ArraySize];
+	
+Exa:
+
+	int ID[15];
+	
+	char Name[40];	
+	char DOB[20];
+	
+	float Distance[20];
+
+	
+	
+

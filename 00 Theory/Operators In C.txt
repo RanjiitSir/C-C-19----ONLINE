@@ -1,0 +1,40 @@
+Operators   in  C
+
+1   Arithmatic        +       -     *     /      %  
+
+2   Logical              &&     ||      !
+
+3   Relational / Comparison        >      <      <=      >=     ==       !=
+
+4   Conditional  ( Ternary Opr)    (Condition)? True : False; 
+
+5   Assignment             =                ShortHand Opr          +=    -=     *=     /=     %=
+
+6   Incr & Decr         ++Pre   &   Post++                     --Pre     & Post--
+
+7   Bitwise         &     |     ^      <<    >>
+
+8   Special          &             *           sizeof()
+
+
+
+No = 10;   
+
+Num = No++;        //   Num = 10,  No = 11
+Num = ++No;        //   No = 12, Num = 12
+
+Num = No--;        //     Num = 12,  No = 11
+Num = --No;        //     No = 10,  Num = 10
+
+
+
+
+
+   15  /  3   =>   5
+   15 % 3   =>    0
+
+   31  /  3   =>    10
+   31 % 3   =>     1
+
+
+ 

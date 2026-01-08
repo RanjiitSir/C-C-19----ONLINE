@@ -1,0 +1,4 @@
+gcc Arithmatic_Operators.C -o  ForkCalc.exe
+
+
+C:\TDM-GCC-64\bin
